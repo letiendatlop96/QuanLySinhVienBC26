@@ -2,3 +2,7 @@
 function codePythonbangJs() {
     console.log('code python = js');
 }
+
+
+
+console.log('Tui là B hihi')
