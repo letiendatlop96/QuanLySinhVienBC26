@@ -6,3 +6,7 @@ function codePythonbangJs() {
 
 
 console.log('Tui là B hihi')
+
+
+
+console.log('Code thử tí nèo')
